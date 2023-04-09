@@ -1,0 +1,32 @@
+.container-header {
+    background-color:cadetblue;
+    height: 70px;
+    left:0;
+    bottom:0;
+    right:0;
+    
+}
+
+.header{
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.home{
+    color: black;
+    font-style: italic;
+    font-weight: 500;
+    font-size: larger;
+    margin-left: 200px;
+    margin-top: 10px;
+    height: 100%;
+}
+
+.menuItems{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+}
+
